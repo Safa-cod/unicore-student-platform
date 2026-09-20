@@ -8,7 +8,7 @@ Instead of using separate platforms for different needs, UniCore provides these 
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 🔎 Lost & Found
 
@@ -32,7 +32,7 @@ UniCore provides weather information through a **Weather API**, allowing student
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology          | Purpose                    |
 | ------------------- | -------------------------- |
@@ -46,7 +46,7 @@ UniCore provides weather information through a **Weather API**, allowing student
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 UniCore/
@@ -69,7 +69,7 @@ UniCore/
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of UniCore is to create a centralized digital platform that addresses several common needs of university students.
 
@@ -86,7 +86,7 @@ The project focuses on:
 
 
 
-## 🎓 Academic Project
+##  Academic Project
 
 **UniCore** was developed as a university course project for the **Software Development and Project Management Lab**.
 
@@ -98,7 +98,7 @@ The project focuses on:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Some possible future improvements include:
 
@@ -112,7 +112,7 @@ Some possible future improvements include:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 UniCore brings several student-oriented services into one platform, creating a convenient and connected digital environment for university students. Through features such as Lost & Found, Student Marketplace, Home Finder, Alumni Network, and Weather Information, the platform aims to make student life more organized, connected, and convenient.
 
