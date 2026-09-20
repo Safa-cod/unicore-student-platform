@@ -84,14 +84,7 @@ The project focuses on:
 
 ---
 
-## 👥 Team Members
 
-* **Safayet Hossain Bhuiyan Munna**
-* **Nihad**
-* **Ammar**
-* **Sajia**
-
----
 
 ## 🎓 Academic Project
 
