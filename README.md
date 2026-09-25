@@ -14,9 +14,7 @@ Instead of using separate platforms for different needs, UniCore provides these 
 
 Students can report lost or found items and share important information such as photos, location, date, and contact details. This helps students find their belongings more easily.
 
-### 🛒 Student Marketplace
 
-A dedicated marketplace where students can buy, sell, or exchange useful items such as textbooks, study materials, and other products.
 
 ### 🏠 Find New Home
 
