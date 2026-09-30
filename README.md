@@ -1,5 +1,7 @@
 🎓 UniCore
+
 A Smart Student Community Platform
+
 UniCore is a student-focused web platform designed to bring multiple useful campus services together in one place. It aims to make everyday student activities easier by providing practical tools for finding lost items, buying and selling products, finding accommodation, connecting with alumni, and checking weather information.Instead of using separate platforms for different needs, UniCore provides these services through a single, simple, and user-friendly platform.
 
 Lost & Found · Live Weather · Alumni Network · Find a Home — all in one place.
@@ -7,6 +9,7 @@ ________________________________________
 
 
 Table of Contents
+
 1.	About the Project
 2.	Key Features
 3.	Deployment Type & Access
