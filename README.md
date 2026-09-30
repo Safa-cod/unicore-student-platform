@@ -40,14 +40,6 @@ ________________________________________
 
 Key Features
 
-Module	What it does
-🎒 Lost & Found	Post lost/found items with a photo, description, location and contact number. Search existing posts and comment on them. Items carry an Unclaimed / Claimed status badge.
-🌦️ Weather	Live weather for any city: temperature (°C and °F), "feels like", condition, humidity, wind, pressure, sunrise/sunset, an hourly forecast for the next hours, and a 5-day outlook. Powered by the free Open-Meteo API (no API key needed).
-🎓 Alumni Network	Browse the alumni directory and search by name, ID, batch, department, graduation year, job, company, location, email, phone or mentorship availability. View academic and career details, and see who is open to mentoring.
-🏠 Find a Home	Post available houses/rooms with title, location, details, monthly rent (BDT) and contact number. Search listings and comment to make inquiries. Listings show an Available / Rented badge.
-🔐 Accounts	Sign up with Student ID, name and password; log in and log out. Passwords are stored as salted hashes (Werkzeug), never as plain text.
-📱 Responsive UI	Sidebar dashboard on desktop and a dropdown navigation on small screens.
-
 
 
 
